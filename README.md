@@ -15,13 +15,6 @@ A batch geocoding tool based on Tianditu API that converts addresses into longit
 
 ## 🚀 快速开始 (Quick Start)
 
-### 环境要求 (Requirements)
-
-- 现代浏览器 (Modern browser)
-- 本地服务器环境 (Local server environment)
-  - Python 3.x 或 (or)
-  - Node.js
-
 ### 使用方法 (Usage)
 
 1. 准备数据文件 (Prepare data file)
